@@ -1,0 +1,8 @@
+Dataset SVM LR NaiveBayes DecisionTrees
+LUBM1K-L 86 76 80 77
+LUBM1K-LE 80 70 75 74
+DBpedia-L 65 71 25 81
+Claros-L 87 80 52 83
+Claros-LE 82 76 54 79
+Freebase 88 65 71 89
+YAGO 79 71 65 79

@@ -1,0 +1,8 @@
+Dataset SVM LR NaiveBayes DecisionTree IdealDecrease
+LUBM1K-L 13 3 5 13 22
+LUBM1K-LE 4 0.5 1.30 0.5 7
+DBpedia-L 59.29 33.45 42.37 47.80 74.76
+Claros-L 60.32 51.53 27.91 58.60 67.00
+Claros-LE 52.34 40.23 21.87 49.86 63.20
+Freebase 5.38 2.56 1.86 5.33 6.78
+YAGO 80.93 83.09 77.46 80.28 84.09 
